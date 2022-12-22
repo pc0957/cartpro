@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    /* color: #787878; */
+}
+
+.fa {
+    color: rgb(117, 117, 117);
+}
+
+.navbar-collapse {
+    flex-grow: 0 !important;
+}
+
+.nav-ul {
+    list-style: none;
+    color: #787878;
+}
+
+.social-media p a {
+    margin-left: 15px;
+    color: #787878;
+}
+
+.top-nav-logo {
+    text-align: center;
+}
+
+.top-nav-logo a {
+    font-family: 'Rubik Vinyl', cursive;
+    text-decoration: none;
+    font-size: 18px;
+    color: #000;
+}
